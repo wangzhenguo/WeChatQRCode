@@ -298,9 +298,6 @@ class WeChatQRCodeActivity : WeChatCameraScanActivity() {
 您也可以扫描下面的二维码，请作者喝杯咖啡 :coffee:
     <div>
         <img src="https://jenly1314.github.io/image/pay/wxpay.png" width="280" heght="350">
-        <img src="https://jenly1314.github.io/image/pay/alipay.png" width="280" heght="350">
-        <img src="https://jenly1314.github.io/image/pay/qqpay.png" width="280" heght="350">
-        <img src="https://jenly1314.github.io/image/alipay_red_envelopes.jpg" width="233" heght="350">
     </div>
 
 ## 关于我
